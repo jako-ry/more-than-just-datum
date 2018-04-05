@@ -1,3 +1,27 @@
 html {
-font-family: IBM Plex Sans, sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+header {
+  background-color: #ddd;
+}
+
+main {
+  background-color: #efefef;
+}
+
+.card {
+  background-color: #fff;
+}
+
+img {
+  max-width: 200px;
+}
+
+label {
+  color: #ddd;
+}
+
+table {
+  background-color: #fff;
 }
