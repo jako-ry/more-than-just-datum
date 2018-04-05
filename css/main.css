@@ -22,6 +22,10 @@ label {
   color: #ddd;
 }
 
-table {
+.table {
   background-color: #fff;
+}
+
+th {
+  width: 100px;
 }
